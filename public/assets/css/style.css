@@ -1,0 +1,11 @@
+body{
+    height: 30rem;
+    background-image: url("/assets/images/kuala.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    transition: 0s linear;
+    color: white;
+    padding-top: 10%;
+}
